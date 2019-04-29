@@ -1,0 +1,10 @@
+There are several steps to the design of a good project, knowing what is required depending on the given circumstances allows for a 
+superior product.
+
+The first thing to do is to know what you want to achieve with your programs, having a goal from the offset will dictate the direction 
+of all proceeding choices. 
+
+You then need to decide how how you want to implement these goals with some broad choices. What's the programming language? Where should
+usersbe able to see your content? Will other coders be looking at your work? Which users should have access to your content? How many 
+levels of abstraction will there be? What is the security like? Will your code operate differently when used in different enviornments?
+These sorts of questions should be asked and addressed earlier in the process.
